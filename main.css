@@ -1,0 +1,64 @@
+body{
+  background-color: #7B886F;
+}
+
+#title{
+  font-size: 100px;
+  font-family: Georgia, serif;
+  margin-left: 430px;
+  color: white;
+  margin-bottom: -80px;
+  text-shadow: 2px 2px black;
+}
+
+hr{
+  color: black;
+}
+
+.row{
+  margin-left: 400px;
+  margin-top: 120px;
+}
+
+.btn{
+  font-size: 50px;
+  background-color: #7B886F;
+  outline: none;
+}
+
+.btn:focus{
+  outline: 1px solid #7B886F;
+}
+
+.min{
+  margin-top: 10px;
+}
+.measure{
+  font-family: Georgia, serif;
+  margin-top: 100px;
+  text-align: center;
+}
+
+.jar{
+  height: 500px;
+  width: 300px;
+  border: 3px solid #001a00;
+  border-radius: 20px;
+}
+
+.filler{
+  background-color: #B4DC7F;
+  border-radius: 20px;
+  height: 450px;
+}
+
+.filler:hover{
+  background-color: #FFA0AC;
+}
+
+#timer{
+  font-size: 80px;
+  color: white;
+  text-align: center;
+  padding-top: 170px;
+}
